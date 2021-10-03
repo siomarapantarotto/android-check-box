@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Check Box</string>
+    <string name="what_pets_do_you_have">What pets do you have?</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="bird">Bird</string>
+    <string name="lion">Lion</string>
+    <string name="click_to_see_selected_pets">Click to see selected pets</string>
+    <string name="see_the_pets_you_have_selected">See the pets you have selected:</string>
+</resources>
